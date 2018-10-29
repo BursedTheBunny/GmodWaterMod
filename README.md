@@ -1,5 +1,6 @@
 # GmodWaterMod
 This is an attempt at remaking 'Watermod'  , My goal is to add an system that makes flooding , Pressure , Pumps and oxygen a thing.
+And yes, i know there is the EcoMod / WaterWorks, and for now this project is highly unstable and can be abandoned any second, cause if the Ecomod/WaterWorks mod does the trick, im not needed anymore.
 
 This is a small list of things i think of doing, and possibly how i can do them.
 
