@@ -6,9 +6,11 @@ This is a small list of things i think of doing, and possibly how i can do them.
 
 - A tool ( Possibly named Hull tool ) to define certain Objects and enclosures as a single room.
 I will try to do this using an system like the Cordon Tool , but idk how it works, or even how the basecode works.
+I prob. will add a 'single prop' thingy for the 'doors'
 
 - A tool ( Possibly named Gap tool ) to define places where rooms should be capable to send water to eachother ( To not create a random wall of water ) 
 I will try to make this placeable at the walls of a Hull, this should make 2 hulls , or the outside of the map with the single hull.
+Aswell will i try to make this work with a form of door system, but i for now have no idea.
 
 - A command to make the map act like an Sea / Ocean , Making anything without a hull flood , and make the hull+Gap system work.
 Honestly , for now idfk how to do this
